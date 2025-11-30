@@ -15,4 +15,8 @@ The code in this project also relies on:
 
 Pytorch was used in part to load the data, however, all of the real work and the model itself is done in Tensorflow using Keras.
 
-You are also able to download the trained model using the Google Drive link here: https://drive.google.com/file/d/1vzN1eJfrjBJO1_eIMvsRMVAkEBFhNshl/view?usp=sharing
+# Running
+
+In order to get the full dataset, use the birdset dataloader and run download.py. This will create and manage the datasets folder in your current directory
+
+You are able to download the trained model using the Google Drive link here: https://drive.google.com/file/d/1vzN1eJfrjBJO1_eIMvsRMVAkEBFhNshl/view?usp=sharing
